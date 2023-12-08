@@ -1,0 +1,32 @@
+<svg id="UI_Screenshoot" data-name="UI Screenshoot" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="990" height="634.629" viewBox="0 0 990 634.629">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Clip_4" data-name="Clip 4" d="M0,568.5H989.442V0H0Z" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#cdcbd5"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#bcbdbf" stop-opacity="0.502"/>
+      <stop offset="0.098" stop-color="#d8d8df" stop-opacity="0.502"/>
+      <stop offset="0.888" stop-color="#d8d8df" stop-opacity="0.502"/>
+      <stop offset="1" stop-color="#adaabd" stop-opacity="0.502"/>
+    </linearGradient>
+  </defs>
+  <g id="Macbook">
+    <g id="shadows" transform="translate(72.439 531.219)">
+      <rect id="Rectangle_8" data-name="Rectangle 8" width="841.309" height="73.71" rx="36.855" opacity="0.05"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="803.184" height="52.105" rx="20.625" transform="translate(22.875)" opacity="0.5"/>
+    </g>
+    <path id="Fill_1" data-name="Fill 1" d="M809.261,540.543H0V35.825A35.825,35.825,0,0,1,35.825,0H773.436a35.825,35.825,0,0,1,35.825,35.825Z" transform="translate(91.644)" fill="#fff"/>
+    <path id="Clip_4-2" data-name="Clip 4" d="M0,568.5H989.442V0H0Z" fill="none"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" clip-path="url(#clip-path)">
+      <path id="Fill_3" data-name="Fill 3" d="M0,473.751H751.789V0H0Z" transform="translate(120.379 33.396)" fill="#eef2f4"/>
+      <path id="Fill_5" data-name="Fill 5" d="M0,10H989.442V0H0Z" transform="translate(0 540.543)" fill="#fff"/>
+      <path id="Fill_6" data-name="Fill 6" d="M497.051,0H0L73,10H916.437l73-10Z" transform="translate(0 550.543)" fill="url(#linear-gradient)"/>
+      <path id="Fill_7" data-name="Fill 7" d="M0,0C1.273,3.951,9.291,7,19.017,7H226.983C236.709,7,244.727,3.951,246,0Z" transform="translate(373.274 540.543)" fill="url(#linear-gradient-2)"/>
+      <path id="Fill_8" data-name="Fill 8" d="M0,21.746H809.261V0H0Z" transform="translate(91.644 518.797)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
