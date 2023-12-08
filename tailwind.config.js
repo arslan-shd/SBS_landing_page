@@ -22,8 +22,8 @@ module.exports = {
       fontFamily: {
         montserrat: ["Montserrat", "sans-serif"],
       },
-      margin: {
-        section: "8rem",
+      padding: {
+        section: "6rem",
       },
     },
   },
